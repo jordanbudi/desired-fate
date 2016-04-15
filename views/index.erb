@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+  <head>
+
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="css/materialize.css">
+    <link rel="stylesheet" type="text/css" href="css/style.css">
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,300' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Montserrat' rel='stylesheet' type='text/css'>
+  </head>
+
+  <body>
+
+    <form method="POST" action="/babyname">
+      <h1 class="container orange lighten-1" id="title">Baby Name Generator</h1>
+      
+      <div  class="container orange lighten-2" id="questions">
+        <div class="container">
+          <input class="with-gap blue" name="gender" type="radio" id="test1" value="boy"/>
+          <label for="test1">Boy</label>
+          
+          <input class="with-gap" name="gender" type="radio" id="test2" value="girl"/>
+          <label for="test2">Girl</label>
+          
+          <input class="with-gap" name="gender" type="radio" id="test3"  value="unisex"/>
+          <label for="test3">Unisex</label>
+        </div>
+
+        <div class="switch container">
+          <label>
+            Shorter
+            <input type="checkbox" name="length" value=1>
+            <span class="lever"></span>
+            Longer
+          </label>
+        </div>
+
+        <div class="container">
+          <span id="criteria">
+          <input type="checkbox" id="test5" name="strong" value="1">
+          <label for="test5">Strong</label>
+          </span>
+
+          <span id="criteria">
+          <input type="checkbox" id="test6" name="unique" value="1">
+          <label for="test6">Unique</label>
+          </span>
+
+          <span id="criteria">
+          <input type="checkbox" id="test7" name="outrageous" value="1">
+          <label for="test7">Outrageous</label>
+          </span>
+
+          <span id="criteria">
+          <input type="checkbox" id="test8" name="meaningful" value="1">
+          <label for="test8">Meaningful</label>
+          </span>
+        </div>
+      
+      
+          <div class="container">
+            <button class="btn waves-effect waves-light grey darken-3" type="submit" name="action">Submit
+              <i class="material-icons right">cloud</i>
+            </button>
+          <!-- <input type="image" src="/images/stickers-21.png" width="20%" alt="Submit"> -->
+          </div>
+        
+        </div>
+      
+
+      
+    </form>
+  </body>
+</html

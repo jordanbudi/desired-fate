@@ -1,0 +1,24 @@
+module ListOfMaleShortNames
+    $male_short = [
+      "ALI", "BEN", "KAI", "KEL", "ROY", "ALEX", "ARON", "AXEL", "CARL", "DAVE", "DEON", "EMIL", "ERIC", "ERIK", "GARY", "HUGO", "IVAN", "IVES", "IVIN", "JANN", "JOEL", "JOHN", "JOSE", "JUAN", "JUDE", "KENO", "KEON", "LUIS", "MARC", "MARK", "MIKE", "OWEN", "PAUL", "REMY", "SAUL", "SEAN", "TYRE", "AARON", "ADDEL", "ADLIN", "AHMAD", "ALLEN", "ALTON", "ALVIN", "AMANI", "AMATA", "ANDEY", "ANDRE", "ANGEL", "ANTON", "ANWAN", "AVERY", "BARRY", "BERTI", "BILLY", "BRYCE", "CALEB", "CARRY", "COREY", "CRAIG", "CURRY", "DANTE", "DAVID", "DAYNE", "DEVIN", "DURAN", "EDWIN", "ERICK", "ERROL", "EUVEN", "EVANS", "GABBY", "HARRY", "HILDO", "ISAAC", "JACOB", "JALEN", "JAMAL", "JAMAR", "JAMES", "JAMIE", "JASON", "JAVON", "JAWAN", "JAYRO", "JIMMY", "JUDAH", "JUWAN", "KAVON", "KEION", "KEITH", "KENAN", "KERRY", "KEVIN", "KEVON", "KEYON", "KINTA", "KIYON", "KYLER", "LAMAR", "LARRY", "LEWIS", "MACEO", "MALIK", "MANNY","MARIO", "MARTY", "MIKAL", "MOSES", "MYKEL", "NHO'J", "NIGEL", "PEDRO", "RAHJA", "RAJHA", "RAMON", "REMAR", "RICKY", "ROGER", "ROLPH", "SHAWN", "STEVE", "TAKAI", "TARIQ", "TAYON", "TERRY", "TRACY", "TUPAC", "TYLER", "TYREE", "TYRON", "TYRUS", "VINCE", "WAYDE"
+    ]
+
+  $male_short_strong = [
+    "BEN", "KEL", "ROY", "ARON", "DAVE", "DEON", "ERIC", "ERIK", "GARY", "IVAN", "JOHN", "JOSE", "KEON", "LUIS", "MARC", "MARK", "MIKE", "SEAN", "ADLIN", "AMANI", "ANDEY", "ANDRE", "ANGEL", "ANTON", "ANWAN", "AVERY", "BILLY", "BRYCE", "CALEB", "COREY", "CRAIG", "CURRY", "DANTE", "DAVID", "DEVIN", "EDWIN", "ERICK", "EVANS", "GABBY", "HARRY", "JACOB", "JALEN", "JAMAL", "JAMAR", "JAMES", "JAMIE", "JASON", "JAVON", "JAWAN", "JIMMY", "JUDAH", "KERRY", "KEVIN", "KEVON", "KEYON", "KYLER", "LARRY", "LEWIS", "MACEO", "MALIK", "MARIO", "MOSES", "NIGEL", "PEDRO", "ROGER", "TAYON", "TERRY", "TRACY", "TUPAC", "TYLER", "TYREE", "TYRON"
+      ]
+
+  $male_short_unique = [
+    "KAI", "ROY", "ALEX", "ARON", "AXEL", "CARL", "DAVE", "DEON", "EMIL", "ERIC", "ERIK", "GARY", "HUGO", "IVAN", "IVES", "IVIN", "JOHN", "JUAN", "JUDE", "KENO", "KEON", "LUIS", "MARC", "MARK", "MIKE", "OWEN", "PAUL", "SEAN", "AARON", "ADDEL", "ADLIN", "AHMAD", "ALLEN", "ALTON", "BERTI", "BILLY", "CALEB", "CARRY", "CRAIG", "CURRY", "DANTE", "DAYNE", "DEVIN", "EDWIN", "ERICK", "EVANS", "GABBY", "HARRY", "ISAAC", "JACOB", "JALEN", "JAMAL", "JAMAR", "JAMES", "JAMIE", "JASON", "JAVON", "JAWAN", "JIMMY", "JUWAN", "KAVON", "KEION", "KEITH", "KEVIN", "KEVON", "KEYON", "KYLER", "LAMAR", "LARRY", "LEWIS", "MACEO", "MALIK", "MANNY", "MARIO", "MARTY", "MIKAL", "NHO'J", "NIGEL", "PEDRO", "RAMON", "RICKY", "ROGER", "ROLPH", "SHAWN", "STEVE", "TAKAI", "TARIQ", "TAYON", "TERRY", "TRACY", "TUPAC", "TYLER", "TYREE"
+      ]
+
+  $male_short_outrageous = [
+"KEL", "AXEL", "EMIL", "HUGO", "JANN", "OWEN", "REMY", "SAUL", "TYRE", "AARON", "ADDEL", "ALVIN", "AMATA", "BARRY", "BERTI", "CURRY", "ERROL", "EUVEN", "EVANS", "HILDO", "JAYRO", "JUDAH", "KENAN", "KERRY", "KINTA", "KIYON", "LAMAR", "MACEO", "MANNY", "MARIO", "MIKAL", "NHO'J", "PEDRO", "RAHJA", "RAJHA", "REMAR", "SHAWN", "STEVE", "TAKAI", "TARIQ", "TAYON", "TYRUS", "VINCE"
+      ]
+
+  $male_short_meaningful = [
+    "ALI", "JOEL", "JOSE", "BRYCE", "DURAN", "ERROL", "EUVEN", "ISAAC", "MOSES", "MYKEL", "NIGEL"
+    ]
+  
+  
+end
+

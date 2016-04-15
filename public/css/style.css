@@ -1,0 +1,63 @@
+@font-face {
+    font-family: 'Hellena'; /*a name to be used later*/
+    src: url('../fonts/Hellena-Script-webfont.woff'); /*URL to font*/
+}
+
+body{
+  margin-top: 25px;
+  background: #9b59b6;
+  text-align: center;
+  
+  background: 
+    linear-gradient(
+      rgba(255, 255, 255, 0), 
+      rgba(255, 255, 255, 0)
+    ),
+    url(../images/patterns/boho-08.png);
+  background-size: 700px 700px;
+
+}
+
+h1{
+  font-family: 'Hellena';
+}
+
+
+#criteria{
+  margin-right: 25px;
+}
+
+.container, #compliment{
+  margin-bottom: 25px;
+}
+
+#backbuttons{
+  margin-top: 50px;
+}
+
+#questions, #title{
+  padding-top: 20px;
+  padding-bottom: 0px;
+  width: 90%;
+  border-radius: 15px;
+}
+
+#title{
+  margin-bottom: 10px;
+  padding-bottom: 10px;
+}
+
+.btn{
+  margin-bottom: 20px;
+}
+
+#babyname{
+  margin-top:10%;
+  border-radius: 20px;
+  padding: 3px 20px 3px 20px;
+  font-family: 'Luckiest Guy', cursive;
+  color:black;
+  border-style: solid;
+  border-width: 10px;
+  border-color: #ef4b00;
+}
