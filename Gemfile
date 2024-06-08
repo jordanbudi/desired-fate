@@ -5,3 +5,7 @@ gem 'shotgun'
 gem 'pry'
 gem 'sinatra'
 
+group :production do
+  gem 'puma'
+end
+
